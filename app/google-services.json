@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "297675114932",
+    "firebase_url": "https://onduty-cec9c.firebaseio.com",
+    "project_id": "onduty-cec9c",
+    "storage_bucket": "onduty-cec9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297675114932:android:a9a2029158b20b7c",
+        "android_client_info": {
+          "package_name": "com.edu.aj.onduty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297675114932-ruaf1gadqsu40bj8akfkbl10h2oj41st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlgeGXtrnkMPxBCQ1fhb6H7y6-Z7y4k7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
